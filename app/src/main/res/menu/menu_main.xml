@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_add"
+        android:title="Add Item"
+        android:icon="@drawable/plus_button"
+        app:showAsAction="ifRoom" />
+    <!-- <a href="https://www.flaticon.com/free-icons/ui" title="ui icons">Ui icons created by wibs.isdesigning - Flaticon</a> -->
+
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="Settings"/>
+</menu>
